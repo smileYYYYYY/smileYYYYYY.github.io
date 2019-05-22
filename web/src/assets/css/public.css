@@ -1,0 +1,26 @@
+/* js0 novel0 等*/
+.article {
+	text-align: left;
+}
+
+.article h2 {
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 30px;
+	color: #677E8C;
+}
+
+.article p {
+	font-size: 16px;
+	line-height: 30px;
+}
+
+.article {
+	padding: 0 10px;
+}
+
+.article img {
+	width: 100%;
+	height: auto;
+	overflow-x: hidden;
+}
